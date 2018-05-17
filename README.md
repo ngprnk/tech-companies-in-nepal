@@ -41,6 +41,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
+- [GrowByData](http://www.growbydata.com/)| Kupondole, Kathmandu | Ecommerce data services for online retailers
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
@@ -63,6 +64,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
+- [PageVamp](https://www.pagevamp.com/) | Jhamsikhel, Lalitpur and New York, New York | Create and update website from Facebook page
 - [Pioneer Solutions](http://www.pioneersolutionsglobal.com/) | Sitapaila Chowk, Kathmandu | Next Generation C/ETRM and EMIS Software
 - [Proshore](http://proshore.nl/) | Tinkune, Kathmandu | New media solutions that enable you to achieve your goal
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
